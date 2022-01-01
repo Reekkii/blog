@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Ahyo',
   email: 'ahyo.zhao@gmail.com',
   link: 'https://ahyoooo.com',
-  description: 'This gonna be an awesome website. ',
+  description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
