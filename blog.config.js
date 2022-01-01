@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://ahyoooo.com',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#F7F6FF', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#3B3760', // use hex value, don't forget '#'
