@@ -4,7 +4,7 @@ const BLOG = {
   email: 'ahyo.zhao@gmail.com',
   link: 'https://ahyoooo.com',
   description: 'Kon-ni-chi-wa.',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#F7F6FF', // use hex value, don't forget '#' e.g #fffefc
