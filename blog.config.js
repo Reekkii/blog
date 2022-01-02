@@ -3,8 +3,8 @@ const BLOG = {
   author: 'ahyo.',
   email: 'ahyo.zhao@gmail.com',
   link: 'https://ahyoooo.com',
-  description: 'Kon-ni-chi-wa.',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  description: 'Personal archive for art, design, exhibition, life.',
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#F7F6FF', // use hex value, don't forget '#' e.g #fffefc
@@ -19,7 +19,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'http://m.okjike.com/users/F856F44C-D5DA-43EA-ACC0-439F339203D7?ref=PROFILE_CARD&utm_source=user_card',
   seo: {
-    keywords: ['Blog', 'Ahyo'],
+    keywords: ['Blog', 'Ahyo','art','exhibition'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
