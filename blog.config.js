@@ -3,7 +3,7 @@ const BLOG = {
   author: 'ahyo.',
   email: 'ahyo.zhao@gmail.com',
   link: 'https://ahyoooo.com',
-  description: 'Personal archive for art, design, exhibition, life.',
+  description: 'personal archive for visual culture & life.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
